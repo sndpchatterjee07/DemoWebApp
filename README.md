@@ -1,6 +1,6 @@
 This is a simple,customizable and tested<a href="http://en.wikipedia.org/wiki/HTML5">HTML5</a>/<a href="http://en.wikipedia.org/wiki/PHP">PHP</a> website template.
 
-Please visit <a href="csandeep.meximas.com/public_html/PHP/DemoWebApp/">here</a> for a demo.
+Please visit <a href="http://csandeep.meximas.com/public_html/PHP/DemoWebApp/">here</a> for a demo.
 
 ###Services/References used:
 * Validators
